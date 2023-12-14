@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-a1-отчет-о-продажах-e",
+  "editForm": "i-i-s-a1-отчет-о-продажах-e",
+  "external": false,
+  "caption": "Отчет о продажах",
+  "name": "IISA1ОтчетОПродажахL",
+  "className": "ОтчетОПродажахL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a1-отчет-о-продажах",
+      "modelProjection": "ОтчетОПродажахL"
+    }
+  ]
+}

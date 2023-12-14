@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Организации",
+      "projection": "ОрганизацииL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Склады",
+      "projection": "СкладыL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Номенклатуры",
+      "projection": "НоменклатурыL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Остат на склад",
+  "name": "IISA1ОстатНаСкладE",
+  "className": "ОстатНаСкладE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a1-остат-на-склад",
+      "modelProjection": "ОстатНаСкладE"
+    }
+  ]
+}

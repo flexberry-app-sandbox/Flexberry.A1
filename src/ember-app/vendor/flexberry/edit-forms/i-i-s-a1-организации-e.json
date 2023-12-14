@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Организации",
+  "name": "IISA1ОрганизацииE",
+  "className": "ОрганизацииE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a1-организации",
+      "modelProjection": "ОрганизацииE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-a1-подразеления-e",
+  "editForm": "i-i-s-a1-подразеления-e",
+  "external": false,
+  "caption": "Подразеления",
+  "name": "IISA1ПодразеленияL",
+  "className": "ПодразеленияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a1-подразеления",
+      "modelProjection": "ПодразеленияL"
+    }
+  ]
+}

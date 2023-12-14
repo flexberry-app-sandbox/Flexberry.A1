@@ -1,0 +1,78 @@
+﻿{
+  "applicationCaption": "A1",
+  "applicationTitle": "A1",
+  "items": [
+    {
+      "link": null,
+      "menuName": "a1",
+      "caption": "A1",
+      "title": "A1",
+      "children": [
+        {
+          "link": "i-i-s-a1-склады-l",
+          "menuName": null,
+          "caption": "Склады",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-a1-контрагенты-l",
+          "menuName": null,
+          "caption": "Контрагенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-a1-ед-измер-l",
+          "menuName": null,
+          "caption": "Ед измер",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-a1-заказ-покуп-l",
+          "menuName": null,
+          "caption": "Заказ покуп",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-a1-организации-l",
+          "menuName": null,
+          "caption": "Организации",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-a1-остат-на-склад-l",
+          "menuName": null,
+          "caption": "Остат на склад",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-a1-отчет-о-продажах-l",
+          "menuName": null,
+          "caption": "Отчет о продажах",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-a1-номенклатуры-l",
+          "menuName": null,
+          "caption": "Номенклатуры",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-a1-подразеления-l",
+          "menuName": null,
+          "caption": "Подразеления",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-a1-ед-измер-e",
+  "editForm": "i-i-s-a1-ед-измер-e",
+  "external": false,
+  "caption": "Ед измер",
+  "name": "IISA1ЕдИзмерL",
+  "className": "ЕдИзмерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-a1-ед-измер",
+      "modelProjection": "ЕдИзмерL"
+    }
+  ]
+}
